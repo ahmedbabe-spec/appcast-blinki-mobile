@@ -4,22 +4,22 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.2.47 (Android)</title>
+      <title>Version 1.2.50 (Android)</title>
       <description>• Performance improvements </description>
-      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 18:10:00 +0000</pubDate>
       <enclosure
-        url="https://play.google.com/store/apps/details?id=com.awlyg.medrasti"
-        sparkle:version="1.2.47"
+        url="https://play.google.com/store/apps/details?id=com.avdp.blinki_app"
+        sparkle:version="1.2.50"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.2.47 (iOS)</title>
+      <title>Version 1.2.50 (iOS)</title>
       <description>• Performance improvements </description>
-      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 18:10:00 +0000</pubDate>
       <enclosure
-        url="https://apps.apple.com/us/app/graytna/id6730118219"
-        sparkle:version="1.2.47"
+        url="https://apps.apple.com/us/app/blinki/id1544428541"
+        sparkle:version="1.2.50"
         sparkle:os="ios" />
     </item>
   </channel>
